@@ -1,0 +1,1 @@
+bool door_open_msg
